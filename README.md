@@ -8,3 +8,4 @@ Skills: Explore the various skills I have acquired throughout my career, includi
 Projects: Browse through a curated selection of my notable projects, accompanied by detailed descriptions and links to relevant resources.
 Experience: Gain insights into my work experience, including past roles, responsibilities, and accomplishments.
 Contact: Connect with me through the provided contact information and social media links.
+
